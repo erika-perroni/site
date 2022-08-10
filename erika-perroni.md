@@ -22,8 +22,7 @@ servico: Doula
         São Caetano do Sul, São Paulo
       </p>
       <p>
-        Cel. <strong>(11) 97615-5448</strong><br>
-        Res. <strong>(11) 2376-7867</strong><br>
+        Cel. <strong>(11) 99433-1008</strong><br>
         e-mail: <a href="mailto:{{ site.encryptedemail }}" onclick="this.href=this.href.replace(/ /g,'')"><strong>{{ site.email }}</strong></a>
       </p>
     </div>
@@ -50,6 +49,8 @@ Massagem na Gestação, Parto e Pós Parto - Commadre e Abraço Materno.
 ### Cidades e Regiões de Atendimento:
 - São Caetano do Sul.
 - Santo André.
+- São Bernardo
+- ABC
 - São Paulo: Ipiranga, Saúde, Vila Mariana, Liberdade, Paraíso, Cambuci, Moóca, Vila Prudente, Vila Alpina, Vila Formosa, Vila Ema, Tatuapé, Carrão. Consultar sobre outras regiões.
 
 ### Atendimento à domicílio ou em consultório:
